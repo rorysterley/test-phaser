@@ -61,3 +61,7 @@ db
 # Environmental #
 #################
 .env
+
+# Project Specific #
+####################
+app/phaser/*

@@ -61,3 +61,5 @@ db
 # Environmental #
 #################
 .env
+
+app/phaser/*
